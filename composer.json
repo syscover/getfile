@@ -1,0 +1,22 @@
+{
+    "name": "syscover/getfile",
+    "version": "5.2",
+    "description": "getFile package",
+    "keywords": ["syscover","pulsar","laravel","getFile"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SYSCOVER SL",
+            "email": "info@syscover.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Syscover\\Getfile\\": "src/Syscover/Getfile"
+        }
+    },
+    "minimum-stability": "dev"
+}
